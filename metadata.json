@@ -1,0 +1,6 @@
+{
+  "name": "HappyFox Connector Logo Generator",
+  "description": "Automatic background removal, padding trimming, and deterministic Figma SVG normalization for HappyFox integration cards (150x150 and 56x56).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
